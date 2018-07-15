@@ -8,7 +8,6 @@ import numpy as np
 import os
 import importlib
 from model import Model
-import matplotlib.pyplot as plt
 import tensorflow as tf 
 
 
