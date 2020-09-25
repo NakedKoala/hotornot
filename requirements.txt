@@ -39,7 +39,7 @@ s3transfer==0.1.13
 scipy==1.1.0
 six==1.11.0
 tensorboard==1.9.0
-tensorflow==1.8.0
+tensorflow==1.15.4
 termcolor==1.1.0
 Theano==1.0.2
 toml==0.9.4
